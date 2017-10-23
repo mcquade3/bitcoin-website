@@ -9,6 +9,7 @@ if (!$_SESSION['authorized']){
 <html lang="en">
 <head>
 	<title>Bitcoin Checker</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
